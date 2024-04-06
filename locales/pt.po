@@ -1,0 +1,1998 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: UTF-8\n"
+
+#: base/quest.js:3:7
+msgid "📦 *#Quest*"
+msgstr "📦 *#Missão*"
+
+#: base/quest.js:7:17
+msgid "Open (Click Here)"
+msgstr "Abrir (Clique Aqui)"
+
+#: base/tips.js:1:28
+msgid "Channel: @DefendTheCastle"
+msgstr "Canal: @DefendTheCastle"
+
+#: base/tips.js:2:26
+msgid "Groups: @DefendTheCastleEN (English) or @DefendTheCastlePT (Portuguese)"
+msgstr ""
+"Groupos: @DefendTheCastleEN (English) or @DefendTheCastlePT (Portuguese)"
+
+#: base/tips.js:3:30
+msgid "Developer: @TiagoEDGE (Tiago Danin)"
+msgstr "Desenvolvedor: @TiagoEDGE (Tiago Danin)"
+
+#. ${0} = "ctx.from.id"
+#: base/tips.js:5:13
+msgid ""
+"Invite your friends with this link to earn Money & Xp: https://telegram.me/"
+"DefendTheCastleBot?start=join-${0}"
+msgstr ""
+"Convide seu amigos com esse link para ganha Dinheiro & XP: https://telegram."
+"me/DefendTheCastleBot?start=join-${0}"
+
+#: base/tips.js:8:27
+msgid "Suggestions & Bugs! Tell me @TiagoEDGE (You can receive 💎 & 💰)"
+msgstr "Sugestões & Bugs! Diga-me @TiagoEDGE (Você pode ganha 💎 & 💰)"
+
+#: base/tips.js:9:29
+msgid "Tutorial: /tutorial"
+msgstr "Tutorial: /tutorial"
+
+#: base/tips.js:10:28
+msgid "Offline for 7 days causes penalties to the castle!"
+msgstr "Fica Offline por mais de 7 dias causar penalidades ao castelo"
+
+#: base/tips.js:12:13
+msgid ""
+"Increasing the level of the clan, increases the number of members & more "
+"money per hour"
+msgstr ""
+"Aumentando o nível do clã, aumenta o número de membros e mais  o de dinheiro "
+"por hora"
+
+#: base/tips.js:15:29
+msgid "Use 💎 in Store VIP"
+msgstr "Use 💎 na Loja VIP"
+
+#: base/tips.js:16:29
+msgid "Use powerups to earn more XP"
+msgstr "Ao usar Poderes você ganha mais XP"
+
+#: base/tips.js:17:29
+msgid "Every 24 hours you can open a gift!"
+msgstr "A cada 24h você pode abrir um presente!"
+
+#. ${0} = "ctx.quest.select.key"
+#: base/tips.js:20:14
+msgid ""
+"<a href=\"https://telegram.me/DefendTheCastleBot?start=quests-${0}\">🔑</a>"
+msgstr ""
+"<a href=\"https://telegram.me/DefendTheCastleBot?start=quests-${0}\">🔑</a>"
+
+#: base/tips.js:23:13
+msgid "Finish the quest to receive 💎 & 💰"
+msgstr "Completa as missões para recebe 💎 & 💰"
+
+#: items/bank.js:21:9
+msgid "🏦 Found money!"
+msgstr "🏦 Achei dinheiro!"
+
+#: items/bank.js:22:9
+msgid "🏦 MONEEEEY!"
+msgstr "🏦 DINHEEEEIRO!"
+
+#: items/bank.js:23:9
+msgid "🏦 💰"
+msgstr "🏦 💰"
+
+#: items/bomb.js:12:10
+msgid "💣 Recruit stepped on the mine!"
+msgstr "💣 Recruta pisou na mina!"
+
+#: items/bomb.js:13:10
+msgid "💣 Our choices were not good."
+msgstr "💣 Nossas escolhas não eram boas."
+
+#: items/bomb.js:14:10
+msgid "💣 We're practically decimated."
+msgstr "💣 Estamos praticamente dizimados"
+
+#: items/bomb.js:20:10
+msgid "💣 We're lucky."
+msgstr "💣 Nós temos sorte."
+
+#: items/bomb.js:21:10
+msgid "💣 There's a bomb with problems"
+msgstr "💣 Há uma bomba com problemas"
+
+#: items/clone.js:16:9
+msgid "👽 Clone used!"
+msgstr "👽 Clone foi usado!"
+
+#: items/hospital.js:22:9
+msgid "🏨 🚑"
+msgstr "🏨 🚑"
+
+#: items/rocket.js:10:9
+msgid "🚀 Our airplane is down!"
+msgstr "🚀 Nosso avião caiu!"
+
+#: items/rocket.js:11:9
+msgid "🚀 I think we can escape in time."
+msgstr "🚀 Acho que podemos escapar a tempo."
+
+#: items/shield.js:14:9
+msgid "🛡 Super Shield used!"
+msgstr "🛡 Super Escudo foi usado!"
+
+#: items/syringe.js:14:9
+msgid "💉 Syringe used!"
+msgstr "💉 Seringa foi usado!"
+
+#: items/tower.js:11:10
+msgid "🗿 Trap...."
+msgstr "🗿 Armadilha...."
+
+#: items/tower.js:12:10
+msgid "🗿 Oh! No... Trap.."
+msgstr "🗿 Oh! Não... Armadilha.."
+
+#: items/tower.js:17:10
+msgid "🗿 The defense is down!"
+msgstr "🗿 A defesa caiu!"
+
+#: items/zones.js:22:10
+msgid "⚔️ We take the zone with the facility!"
+msgstr "⚔ ️Nós tomamos a zona facilmente!"
+
+#: items/zones.js:23:10
+msgid "⚔️ Easy!"
+msgstr "⚔ ️ Fácil!"
+
+#: items/zones.js:28:10
+msgid "⚔️ Trap...."
+msgstr "⚔️ Armadilha...."
+
+#: items/zones.js:29:10
+msgid "⚔️ Oh! No... Trap.."
+msgstr "⚔️ Oh! Não... Armadilha.."
+
+#: items/zones.js:61:10
+msgid "🛡 The defense is down!"
+msgstr "🛡 A defesa caiu!"
+
+#: itemsAllText.js:2:19
+msgid "Void"
+msgstr "Void"
+
+#: itemsAllText.js:3:19
+msgid "I don't know what that does..."
+msgstr "Eu não sei o que isso faz..."
+
+#: itemsAllText.js:5:19
+msgid "Bomb"
+msgstr "Bomba"
+
+#: itemsAllText.js:6:19
+msgid ""
+"Great damage! Perfect trap for enemy troop. But the shields can suffer "
+"damage."
+msgstr ""
+"Grande dano! Armadilha perfeita para tropas inimigas. Mas os escudos podem "
+"sofrer danos."
+
+#: itemsAllText.js:8:19
+msgid "Zone War"
+msgstr "Zona de Guerra"
+
+#: itemsAllText.js:9:19 itemsAllText.js:12:19
+msgid "Military will protect this area with their lives!"
+msgstr "Militares protegerão esta área com suas vidas!"
+
+#: itemsAllText.js:11:19
+msgid "Zone Defense"
+msgstr "Zona de Defesa"
+
+#: itemsAllText.js:14:19
+msgid "Rocket"
+msgstr "Foguete"
+
+#: itemsAllText.js:15:19
+msgid "Troop focused on knocking down drones and airplanes."
+msgstr "Tropa focada em derrubar drones e aviões."
+
+#: itemsAllText.js:17:19
+msgid "Bank"
+msgstr "Banco"
+
+#: itemsAllText.js:18:19
+msgid "Generate money for the castle."
+msgstr "Gerar dinheiro para o castelo."
+
+#: itemsAllText.js:20:19
+msgid "Tower Defense"
+msgstr "Torre de Defesa"
+
+#: itemsAllText.js:21:19
+msgid "Specialist in strategist of attack"
+msgstr "Especialista em estrategista de ataque"
+
+#: itemsAllText.js:23:19
+msgid "Hospital"
+msgstr "Hospital"
+
+#: itemsAllText.js:24:19
+msgid "Increases a health."
+msgstr "Aumenta a saúde."
+
+#: itemsAllText.js:26:20 plugins/presents.js:77:15
+msgid "Clone"
+msgstr "Clone"
+
+#: itemsAllText.js:27:20
+msgid "2x Attack, Shield and Life & +350xp"
+msgstr "2x +Ataque, +Escudo & +Vida & +350xp"
+
+#: itemsAllText.js:29:20 plugins/presents.js:75:17
+msgid "Diamond"
+msgstr "Diamante"
+
+#: itemsAllText.js:30:20
+msgid "Diamond!"
+msgstr "Diamante!"
+
+#: itemsAllText.js:32:20
+msgid "Super Shield"
+msgstr "Super Escudo"
+
+#: itemsAllText.js:33:20
+msgid "3x +Shield & +150 Xp"
+msgstr "3x +Escudo & +150 Xp"
+
+#: itemsAllText.js:35:20 plugins/presents.js:79:17
+msgid "Syringe"
+msgstr "Seringa"
+
+#: itemsAllText.js:36:20
+msgid "2x +Shield & 2x +Life"
+msgstr "2x +Escudo & 2x +Vida"
+
+#: itemsAllText.js:38:20 plugins/presents.js:73:16
+msgid "Troops"
+msgstr "Tropas"
+
+#: itemsAllText.js:39:20
+msgid "+5 Troops"
+msgstr "+5 Tropas"
+
+#: itemsAllText.js:41:20
+msgid "Presents"
+msgstr "Presentes"
+
+#: itemsAllText.js:42:20
+msgid "+1 Present"
+msgstr "+1 Presente"
+
+#: itemsAllText.js:44:22
+msgid "Detonated"
+msgstr "Detonado"
+
+#: itemsAllText.js:45:22
+msgid "The Strongest!"
+msgstr "O mais forte!"
+
+#: itemsAllText.js:47:23
+msgid "Newbies"
+msgstr "Iniciantes"
+
+#: itemsAllText.js:48:23
+msgid ""
+"Everyone starts from somewhere, but where you start doesn't have to be where "
+"you end"
+msgstr ""
+"Todo mundo começam de algum lugar, mas onde você começa não tem que ser onde "
+"você termina"
+
+#: itemsAllText.js:50:25
+msgid "Warriors"
+msgstr "Guerreiros "
+
+#: itemsAllText.js:51:25
+msgid "Living from fights!"
+msgstr "Vivendo de lutas!"
+
+#: itemsAllText.js:53:23
+msgid "Master"
+msgstr "Patrão"
+
+#: itemsAllText.js:54:23
+msgid "Money is no problem 😜"
+msgstr "Dinheiro não é problema 😜"
+
+#: itemsAllText.js:56:23
+msgid "Mr.Future"
+msgstr "Sr.Futuro"
+
+#: itemsAllText.js:57:23
+msgid "Also known as leaders"
+msgstr "Também conhecidos como líderes"
+
+#: itemsAllText.js:59:24
+msgid "Admins/Developer"
+msgstr "Admins/Desenvolvedor"
+
+#: itemsAllText.js:60:24
+msgid "Game Creators"
+msgstr "Criadores do Jogo"
+
+#: itemsAllText.js:62:22
+msgid "Moderators"
+msgstr "Moderadores"
+
+#: itemsAllText.js:63:22
+msgid "Game Moderators"
+msgstr "Moderadores do jogo"
+
+#: itemsAllText.js:65:24
+msgid "Fan"
+msgstr "Fã"
+
+#: itemsAllText.js:66:24
+msgid "Fans of Defend The Castle"
+msgstr "Fãs do Defend The Castle"
+
+#: itemsAllText.js:68:24
+msgid "Be the King of Emblems"
+msgstr "Seja o rei dos emblemas"
+
+#: itemsAllText.js:70:25
+msgid "🎁 Find the best present!"
+msgstr "🎁 Encontre o melhor presente!"
+
+#: itemsAllText.js:72:23
+msgid "Show your power to the other castles 🤔😉 (+15 Batles)"
+msgstr "Mostre seu poder aos outros castelos 🤔😉 (+15 Batalhas)"
+
+#: itemsAllText.js:74:28
+msgid "Show your power to the other castles 🤔😉 (+200 Batles)"
+msgstr "Mostre seu poder aos outros castelos 🤔😉 (+200 Batalhas)"
+
+#: itemsAllText.js:76:21
+msgid "Find the key (🔑) to the Castle vault."
+msgstr "Encontre a chave (🔑) para o cofre do castelo."
+
+#: itemsAllText.js:78:24
+msgid "Earn points for your clan."
+msgstr "Ganhe pontos para seu clan."
+
+#: itemsAllText.js:80:25
+msgid "Upgrade a building with +20 levels (instantly)."
+msgstr "Atualize um edifício com níveis de +20 (instantaneamente)."
+
+#: itemsAllText.js:82:36
+msgid "Win +30 consecutive battles."
+msgstr "Ganhe +30 batalhas consecutivas."
+
+#: itemsAllText.js:84:25
+msgid "Warrior"
+msgstr "Guerreiro"
+
+#: itemsAllText.js:85:25
+msgid "Perfect for Fights!"
+msgstr "Perfeito para lutas!"
+
+#: itemsAllText.js:87:24
+msgid "Banker"
+msgstr "Banqueiro"
+
+#: itemsAllText.js:88:24
+msgid "Money move the world!"
+msgstr "O dinheiro move o mundo!"
+
+#: itemsAllText.js:90:28
+msgid "Adventurer"
+msgstr "Aventureiro"
+
+#: itemsAllText.js:91:28
+msgid "Everyone seeks something!"
+msgstr "Todo mundo procura alguma coisa!"
+
+#: plugins/badges.js:4:17
+msgid "<b>My badges:</b>\n"
+msgstr "<b>Meu emblemas:</b>\n"
+
+#: plugins/badges.js:6:37
+msgid "You don't have badges!"
+msgstr "Você não tem emblemas!"
+
+#. ${0} = "element.icon"
+#. ${1} = "title"
+#: plugins/badges.js:8:9
+msgid "${0} ${1}"
+msgstr "${0} ${1}"
+
+#: plugins/badges.js:28:15 plugins/city.js:245:14 plugins/clan.js:26:15
+#: plugins/clan.js:331:16 plugins/class.js:53:13 plugins/config.js:20:15
+#: plugins/fight.js:156:17 plugins/fight.js:166:17 plugins/fight.js:402:20
+#: plugins/fight.js:416:22 plugins/fight.js:560:14 plugins/menu.js:71:16
+#: plugins/presents.js:144:15 plugins/quests.js:40:15 plugins/ranks.js:87:15
+msgid "📜 Menu"
+msgstr "📜 Menu"
+
+#. ${0} = "badge.icon"
+#. ${1} = "title"
+#. ${2} = "desc"
+#: plugins/badges.js:36:14
+msgid ""
+"\n"
+"<b>Badge:</b>\n"
+"${0} - ${1}\n"
+"${2}"
+msgstr ""
+"\n"
+"<b>Emblema:</b>\n"
+"${0} - ${1}\n"
+"${2}"
+
+#: plugins/city.js:22:15
+msgid "⚙️ Class"
+msgstr "⚙️ Classe"
+
+#: plugins/city.js:50:15
+msgid "✅ Upgrade (+1)"
+msgstr "✅ Melhorar (+1)"
+
+#: plugins/city.js:54:15
+msgid "✅ Upgrade (+10)"
+msgstr "✅ Melhorar (+10)"
+
+#: plugins/city.js:58:15
+msgid "✅ Upgrade (+25)"
+msgstr "✅ Melhorar (+25)"
+
+#. ${0} = "ctx.db.castle"
+#. ${0} = "ctx.db.castle"
+#. ${0} = "ctx.db.castle"
+#: plugins/city.js:68:14 plugins/city.js:89:14 plugins/menu.js:44:15
+msgid "${0} City"
+msgstr "${0} Cidade"
+
+#. ${0} = "item.icon"
+#. ${1} = "name"
+#: plugins/city.js:99:12
+msgid "<b>${0} ${1}</b>\n"
+msgstr "<b>${0} ${1}</b>\n"
+
+#. ${0} = "value"
+#: plugins/city.js:111:15
+msgid "<b>⚡️ Level:</b> ${0}\n"
+msgstr "<b>⚡️ Nível:</b> ${0}\n"
+
+#. ${0} = "price"
+#: plugins/city.js:112:15
+msgid "<b>💶 Upgrade:</b> ${0} Coin\n"
+msgstr "<b>💶 Melhorar:</b> ${0} Moedas"
+
+#. ${0} = "ctx.db.castle"
+#. ${1} = "ctx.db.name"
+#. ${2} = "ctx.tags.ctx.from.id"
+#. ${0} = "ctx.db.castle"
+#. ${1} = "ctx.db.name"
+#. ${2} = "ctx.tags.ctx.from.id"
+#. ${0} = "ctx.db.castle"
+#. ${1} = "ctx.db.name"
+#. ${2} = "ctx.tags.ctx.from.id"
+#. ${0} = "ctx.db.castle"
+#. ${1} = "ctx.db.name"
+#. ${2} = "ctx.tags.ctx.from.id"
+#. ${0} = "ctx.db.castle"
+#. ${1} = "ctx.db.name"
+#. ${2} = "ctx.tags.ctx.from.id"
+#. ${0} = "ctx.db.castle"
+#. ${1} = "ctx.db.name"
+#. ${2} = "ctx.tags.ctx.from.id"
+#: plugins/city.js:119:17 plugins/city.js:135:14 plugins/city.js:197:15
+#: plugins/city.js:225:15 plugins/clan.js:374:33 plugins/menu.js:6:17
+msgid "<b>${0} City:</b> ${1}${2}\n"
+msgstr "<b>${0} Cidade:</b> ${1}${2}\n"
+
+#. ${0} = "ctx.nl.ctx.db.money"
+#. ${1} = "ctx.nl.ctx.db.moneyPerHour"
+#. ${0} = "ctx.nl.ctx.db.money"
+#. ${1} = "ctx.nl.ctx.db.moneyPerHour"
+#. ${0} = "ctx.nl.ctx.db.money"
+#. ${1} = "ctx.nl.ctx.db.moneyPerHour"
+#. ${0} = "ctx.nl.ctx.db.money"
+#. ${1} = "ctx.nl.ctx.db.moneyPerHour"
+#. ${0} = "ctx.nl.clan.money"
+#. ${1} = "ctx.nl.ctx.clan.clan.level.money"
+#. ${0} = "ctx.nl.ctx.db.money"
+#. ${1} = "ctx.nl.ctx.db.moneyPerHour"
+#: plugins/city.js:120:14 plugins/city.js:136:15 plugins/city.js:198:16
+#: plugins/city.js:226:16 plugins/clan.js:95:17 plugins/menu.js:10:14
+msgid "<b>💰 Money:</b> ${0} (${1}/hour)\n"
+msgstr "<b>💰 Dinheiro:</b> ${0} (${1}/hora)\n"
+
+#. ${0} = "ctx.nl.ctx.db.attack"
+#. ${0} = "ctx.nl.ctx.db.attack"
+#. ${0} = "ctx.nl.ctx.db.attack"
+#. ${0} = "ctx.nl.ctx.db.attack"
+#: plugins/city.js:121:14 plugins/city.js:137:15 plugins/city.js:199:16
+#: plugins/city.js:227:16
+msgid "<b>⚔️ Attack:</b> ${0}\n"
+msgstr "<b>⚔️ Ataque:</b> ${0}\n"
+
+#. ${0} = "ctx.nl.ctx.db.shield"
+#. ${0} = "ctx.nl.ctx.db.shield"
+#. ${0} = "ctx.nl.ctx.db.shield"
+#. ${0} = "ctx.nl.ctx.db.shield"
+#: plugins/city.js:122:14 plugins/city.js:138:15 plugins/city.js:200:16
+#: plugins/city.js:228:16
+msgid "<b>🛡 Shield:</b> ${0}\n"
+msgstr "<b>🛡 Escudo:</b> ${0}\n"
+
+#. ${0} = "ctx.nl.ctx.db.life"
+#. ${0} = "ctx.nl.ctx.db.life"
+#. ${0} = "ctx.nl.ctx.db.life"
+#. ${0} = "ctx.nl.ctx.db.life"
+#: plugins/city.js:123:14 plugins/city.js:139:15 plugins/city.js:201:16
+#: plugins/city.js:229:16
+msgid "<b>❤️ Life:</b> ${0}\n"
+msgstr "<b>❤️ Vida:</b> ${0}\n"
+
+#: plugins/city.js:130:15
+msgid "<b>Select your new castle:</b>"
+msgstr "<b>Selecione o seu novo castelo:</b>"
+
+#: plugins/city.js:142:15
+msgid "<b>New castle!</b>"
+msgstr "<b>Novo castelo!</b>"
+
+#: plugins/city.js:205:16 plugins/city.js:207:26
+msgid "Upgraded!"
+msgstr "Melhorado!"
+
+#. ${0} = "ctx.db.money"
+#. ${1} = "price"
+#: plugins/city.js:210:26
+msgid "❌ Your money ${0} | Price ${1}"
+msgstr "❌ Seu dinheiro ${0} | Preço ${1}"
+
+#: plugins/city.js:211:16 plugins/storevip.js:41:17
+msgid ""
+"\n"
+"Failed!"
+msgstr ""
+"\n"
+"Falha!"
+
+#: plugins/city.js:234:16
+msgid "Hack?"
+msgstr "Hack?"
+
+#. ${0} = "list.position"
+#. ${0} = "list"
+#: plugins/clan.js:8:17 plugins/ranks.js:11:17
+msgid "🥇 You Rank is: ${0}\n"
+msgstr "🥇 Seu Rank é: ${0}\n"
+
+#. ${0} = "n"
+#. ${1} = "clan.name"
+#. ${2} = "clan.flag"
+#. ${3} = "clan.members.length"
+#. ${4} = "ctx.clan.clan.level.members"
+#. ${5} = "clan.level"
+#: plugins/clan.js:13:16
+msgid "<b>${0}.</b> ${1} [${2}] (${3}/${4}) - lvl ${5}\n"
+msgstr "<b>${0}.</b> ${1} [${2}] (${3}/${4}) - lvl ${5}\n"
+
+#: plugins/clan.js:19:15 plugins/ranks.js:80:15
+msgid "🏅 Level"
+msgstr "🏅 Nível"
+
+#: plugins/clan.js:20:15 plugins/ranks.js:81:15
+msgid "💰 Money"
+msgstr "💰 Dinheiro"
+
+#: plugins/clan.js:23:15 plugins/ranks.js:84:15
+msgid "⚔️ Battles"
+msgstr "⚔️ Batalhas"
+
+#: plugins/clan.js:24:15 plugins/ranks.js:85:15
+msgid "🌇 Clans"
+msgstr "🌇 Clans"
+
+#: plugins/clan.js:29:31 plugins/ranks.js:90:31
+msgid "❇️ Online"
+msgstr "❇️ Online"
+
+#. ${0} = "clan.name"
+#. ${1} = "clan.flag"
+#. ${0} = "clan.name"
+#. ${1} = "clan.flag"
+#. ${0} = "clan.name"
+#. ${1} = "clan.flag"
+#: plugins/clan.js:82:19 plugins/clan.js:410:106 plugins/clan.js:446:99
+msgid "<b>🌇 Name:</b> ${0} [${1}]\n"
+msgstr "<b>🌇 Nome:</b> ${0} [${1}]\n"
+
+#. ${0} = "clan.level"
+#. ${1} = "level"
+#: plugins/clan.js:83:16
+msgid "<b>🏅 Level:</b> ${0}${1}\n"
+msgstr "<b>🏅 Nível:</b> ${0}${1}\n"
+
+#: plugins/clan.js:86:18
+msgid "<b>✉️ Add a description:</b> /clan desc my description\n"
+msgstr "<b>✉️ Adicione uma descrição:</b> /clan desc minha descrição"
+
+#. ${0} = "clan.desc"
+#: plugins/clan.js:89:17
+msgid "<b>✉️ Description:</b> ${0}\n"
+msgstr "<b>✉️ Descrição:</b> ${0}\n"
+
+#. ${0} = "ctx.nl.clan.xp"
+#. ${0} = "ctx.nl.ctx.db.xp"
+#: plugins/clan.js:93:17 plugins/menu.js:8:14
+msgid "<b>🎖 Experience:</b> ${0}\n"
+msgstr "<b>🎖 Experiência:</b> ${0}\n"
+
+#. ${0} = "pts"
+#: plugins/clan.js:94:17
+msgid "<b>⚖️ My Points:</b> ${0}\n"
+msgstr "<b>⚖️ Meus Pontos:</b> ${0}\n"
+
+#. ${0} = "clan.members.length"
+#. ${1} = "ctx.clan.clan.level.members"
+#: plugins/clan.js:98:16
+msgid ""
+"<b>👥 Members:</b> ${0}/${1}\n"
+"\n"
+msgstr ""
+"<b>👥 Membros:</b> ${0}/${1}\n"
+"\n"
+
+#. ${0} = "clan.id"
+#: plugins/clan.js:99:16
+msgid ""
+"<b>❇️ Invite Clan URL:</b> https://telegram.me/DefendTheCastleBot?start=join-"
+"clan-${0}\n"
+msgstr ""
+"<b>❇️ Link de Convite do Clan:</b> https://telegram.me/DefendTheCastleBot?"
+"start=join-clan-${0}\n"
+
+#: plugins/clan.js:101:17
+msgid ""
+"<b>❌ Exit:</b> <a href=\"https://telegram.me/DefendTheCastleBot?start=exit-"
+"clan\">[Click Here]</a>\n"
+msgstr ""
+"<b>❌ Sair:</b> <a href=\"https://telegram.me/DefendTheCastleBot?start=exit-"
+"clan\">[Clique Aqui]</a>\n"
+
+#: plugins/clan.js:115:37
+msgid "*Done!*"
+msgstr "*Feito!*"
+
+#: plugins/clan.js:119:19 plugins/clan.js:384:27 plugins/clan.js:406:17
+#: plugins/clan.js:413:23 plugins/clan.js:442:17 plugins/clan.js:449:23
+msgid "🌇 Open Clan"
+msgstr "🌇 Abrir Clan"
+
+#: plugins/clan.js:126:32
+msgid "<b>NOTE:</b> Flag{3}-Name{1,15}; examle: <code>TNT-TNTClan</code>"
+msgstr "<b>NOTA:</b> Tag{3}-Nome{1,15}; exemplo: <code>TNT-TNTClan</code>"
+
+#: plugins/clan.js:147:14
+msgid "Join or create a new clan!"
+msgstr "Entre ou crie um novo clan!"
+
+#: plugins/clan.js:150:16 plugins/clan.js:482:18
+msgid "✏️ Create"
+msgstr "✏️ Criar"
+
+#: plugins/clan.js:151:16 plugins/clan.js:179:16 plugins/clan.js:359:18
+#: plugins/clan.js:483:18
+msgid "📝 List Clans"
+msgstr "📝 Lista de Clans"
+
+#: plugins/clan.js:160:24
+msgid "👪 Group"
+msgstr "👪 Grupo"
+
+#: plugins/clan.js:164:24
+msgid "👪 Add Group Url"
+msgstr "👪 Adicionar Url do Grupo"
+
+#: plugins/clan.js:172:16
+msgid "💰 Get Money"
+msgstr "💰 Obter Dinheiro"
+
+#: plugins/clan.js:173:16
+msgid "✨ Donate Experience"
+msgstr "✨ Doar Experiência"
+
+#: plugins/clan.js:174:16
+msgid "👥 Members"
+msgstr "👥 Membros"
+
+#: plugins/clan.js:177:16
+msgid "⚖️ Points"
+msgstr "⚖️ Pontos"
+
+#: plugins/clan.js:182:16 plugins/clan.js:251:16 plugins/clan.js:277:16
+msgid "🌇 Clan Menu"
+msgstr "🌇 Menu Clan"
+
+#: plugins/clan.js:183:16 plugins/clan.js:252:16 plugins/clan.js:278:16
+#: plugins/clan.js:358:18 plugins/clan.js:383:27
+msgid "📜 Main Menu"
+msgstr "📜 Menu Principal"
+
+#. ${0} = "pts"
+#: plugins/clan.js:199:14
+msgid "<b>Points</b>: ${0}\n"
+msgstr "<b>Pontos</b>: ${0}\n"
+
+#: plugins/clan.js:200:15
+msgid "• Battles Won: + 12.2pts\n"
+msgstr "• Batalhas Ganhas: + 12.2pts\n"
+
+#: plugins/clan.js:201:15
+msgid "• Battles Lost: - 7.2pts\n"
+msgstr "• Batalhas Perdidas: - 7.2pts\n"
+
+#: plugins/clan.js:202:15
+msgid "• Experience donated: + 0.18pts\n"
+msgstr "• Experiência doada: + 0.18pts\n"
+
+#: plugins/clan.js:203:15
+msgid "• Cash Withdrawal: - 0.12pts\n"
+msgstr "• Dinheiro retirado: - 0.12pts\n"
+
+#: plugins/clan.js:204:15
+msgid "<b>Note:</b> Restarted every week or day :)"
+msgstr "<b>Note:</b> Reiniciado a cada semana ou dia:)"
+
+#: plugins/clan.js:206:14
+msgid "<b>Set link with command:</b> /clan chat https://telegram.me/mychat\n"
+msgstr ""
+"<b>Definir link com o comando:</b> /clan chat https://telegram.me/mychat\n"
+
+#: plugins/clan.js:209:16
+msgid "Done!"
+msgstr "Feito!"
+
+#: plugins/clan.js:215:17
+msgid "<b>NOTE:</b> Not a Telegram URL"
+msgstr "<b>NOTE:</b> Não é uma URL do Telegram"
+
+#: plugins/clan.js:221:15
+msgid "<b>Text must have only letter and number with 12-200 characters!</b>"
+msgstr "<b>O texto deve ter apenas letras e números com 12-200 caracteres!</b>"
+
+#: plugins/clan.js:223:15
+msgid "<b>Updated description!</b>"
+msgstr "<b>Descrição atualizada!</b>"
+
+#: plugins/clan.js:230:15 plugins/clan.js:256:15
+msgid ""
+"\n"
+"<b>Select:</b>"
+msgstr ""
+"\n"
+"<b>Selecione:</b>"
+
+#. ${0} = "ctx.nl.money"
+#: plugins/clan.js:236:15
+msgid "💰 Transferred to your account: ${0}"
+msgstr "💰 Transferido para a sua conta: ${0}"
+
+#. ${0} = "ctx.nl.xp"
+#: plugins/clan.js:262:15
+msgid "✨ Transferred to clan: ${0}"
+msgstr "✨ Transferido para o clan: ${0}"
+
+#: plugins/clan.js:282:14
+msgid ""
+"<b>Members (Points):\n"
+"</b>"
+msgstr ""
+"<b>Membros (Pontos):\n"
+"</b>"
+
+#: plugins/clan.js:313:14
+msgid ""
+"\n"
+"Name and Flag (reply):\n"
+"NOTE: Flag{3_length}-Name{1,15_length}\n"
+"EXAMPLE: TNT-TNTClan\n"
+"\t\t"
+msgstr ""
+"\n"
+"Nome e Tag (responder):\n"
+"NOTA: Tag{3_tamanho}-Nome{1,153_tamanho}\n"
+"EXEMPLO: TNT-TNTClan\n"
+"\t\t"
+
+#: plugins/clan.js:325:14
+msgid ""
+"<b>Clans:\n"
+"</b>"
+msgstr ""
+"<b>Clans:\n"
+"</b>"
+
+#: plugins/clan.js:332:16
+msgid "🌇 More Clans"
+msgstr "🌇 Mais Clans"
+
+#: plugins/clan.js:342:15
+msgid "Join:"
+msgstr "Entrar:"
+
+#: plugins/clan.js:347:15
+msgid "<b>VIEW CLAN:</b>\n"
+msgstr "<b>VER CLAN:</b>\n"
+
+#: plugins/clan.js:349:16
+msgid ""
+"\n"
+"<b>NOTE</b>: You already have a clan!"
+msgstr ""
+"\n"
+"<b>NOTE</b>: Você já está em um clan!!"
+
+#. ${0} = "clan.members.length"
+#. ${1} = "ctx.clan.clan.level.members"
+#. ${0} = "clan.members.length"
+#. ${1} = "ctx.clan.clan.level.members"
+#: plugins/clan.js:353:16 plugins/clan.js:432:15
+msgid "Clan is full! (${0}/${1})"
+msgstr "Clan está cheio! (${0}/${1})"
+
+#. ${0} = "clan.members.length"
+#. ${1} = "ctx.clan.clan.level.members"
+#: plugins/clan.js:355:17
+msgid "Request submitted, wait for an approval!\n"
+msgstr "Pedido enviado, aguarde uma aprovação!\n"
+
+#: plugins/clan.js:373:36
+msgid "<b>A new city that joins your clan:</b>\n"
+msgstr "<b>Uma nova cidade que se junta ao seu clã:</b>\n"
+
+#. ${0} = "ctx.db.level"
+#. ${0} = "level"
+#: plugins/clan.js:375:33 plugins/menu.js:7:14
+msgid "<b>🏅 Level:</b> ${0}\n"
+msgstr "<b>🏅 Nível:</b> ${0}\n"
+
+#: plugins/clan.js:379:27
+msgid "✅ Accept"
+msgstr "✅ Aceitar"
+
+#: plugins/clan.js:380:27
+msgid "❌ Deny"
+msgstr "❌ Negar"
+
+#. ${0} = "ctx.loadLang.newMember.lang.clanMember.await.ctx.database.getClan.newMember.id.clanMember.clan.members.length.ctx.clan.clan.level.members.text.ctx"
+#: plugins/clan.js:403:16
+#, fuzzy
+msgid "Member denied!\n"
+msgstr "Membro aceito!\n"
+
+#: plugins/clan.js:410:35
+msgid "Unfortunately you were not accepted to join the clan\n"
+msgstr "Infelizmente você não foi aceito para entrar no clãn\n"
+
+#: plugins/clan.js:430:15
+msgid "This member has been accepted into another clan"
+msgstr "Este membro já foi aceito em outro clã."
+
+#. ${0} = "clan.members.length"
+#. ${1} = "ctx.clan.clan.level.members"
+#: plugins/clan.js:439:16
+msgid "Member accepted!\n"
+msgstr "Membro aceito!\n"
+
+#: plugins/clan.js:446:35
+msgid "Welcome! You have been accepted into the clan\n"
+msgstr "Bem-vindo! Você foi aceito no clã\n"
+
+#: plugins/clan.js:463:15
+msgid "<b>Owner cannot leave!</b>"
+msgstr "<b>Dono não pode sair!</b>"
+
+#: plugins/clan.js:466:15
+msgid "Wait 24 hours to do this again!"
+msgstr "Espere 24 horas para fazer isso novamente!"
+
+#: plugins/clan.js:470:16 plugins/clan.js:479:16
+msgid "Leaving!"
+msgstr "Saindo!"
+
+#: plugins/class.js:2:17
+msgid "<b>Select:</b>"
+msgstr "<b>Selecione:</b>"
+
+#. ${0} = "cl.id"
+#: plugins/class.js:9:18
+msgid "class:${0}"
+msgstr "class:${0}"
+
+#. ${0} = "name"
+#: plugins/class.js:18:15
+msgid "New class: ${0}"
+msgstr "Nova classe: ${0}"
+
+#. ${0} = "cl.attack"
+#: plugins/class.js:25:17
+msgid "<b>• ⚔️ Attack:</b> +${0}%\n"
+msgstr "<b>• ⚔️ Ataque:</b> +${0}%\n"
+
+#. ${0} = "cl.shield"
+#: plugins/class.js:29:17
+msgid "<b>• 🛡 Shield:</b> +${0}%\n"
+msgstr "<b>• 🛡 Escudo:</b> +${0}%\n"
+
+#. ${0} = "cl.life"
+#: plugins/class.js:33:17
+msgid "<b>• ❤️ Life:</b> +${0}%\n"
+msgstr "<b>• ❤️ Vida:</b> +${0}%\n"
+
+#. ${0} = "cl.money"
+#: plugins/class.js:37:17
+msgid "<b>• 💰 Money:</b> +${0}%\n"
+msgstr "<b>• 💰 Dinheiro:</b> +${0}%\n"
+
+#. ${0} = "cl.xp"
+#: plugins/class.js:41:17
+msgid "<b>• 🎖 Experience:</b> +${0}%\n"
+msgstr "<b>• 🎖 Experiência:</b> +${0}%\n"
+
+#: plugins/class.js:46:17
+msgid "✅ Select this class"
+msgstr "✅ Selecione esta classe"
+
+#: plugins/config.js:10:19
+msgid "<b>⚙️ Settings</b>"
+msgstr "<b>⚙️ Configurações</b>"
+
+#. ${0} = "status.ctx.db.notification"
+#: plugins/config.js:18:15
+msgid "${0} Global Notification"
+msgstr "${0} Global Notificação"
+
+#. ${0} = "status.ctx.db.reply"
+#: plugins/config.js:19:15
+msgid "${0} Reply Battle"
+msgstr "${0} Receber Notificação de Ataque"
+
+#: plugins/fight.js:7:31
+msgid ":) Start a new game!"
+msgstr ":) Comece um novo jogo!"
+
+#. ${0} = "ctx.castles.Number.play1.city"
+#. ${1} = "play1.name"
+#. ${2} = "ctx.tags.play1.id"
+#. ${3} = "play1.level"
+#. ${4} = "ctx.castles.Number.play2.city"
+#. ${5} = "play2.name"
+#. ${6} = "ctx.tags.play2.id"
+#. ${7} = "play2.level"
+#. ${0} = "ctx.castles.Number.play1.city"
+#. ${1} = "play1.name"
+#. ${2} = "ctx.tags.play1.id"
+#. ${3} = "play1.level"
+#. ${4} = "ctx.castles.Number.play2.city"
+#. ${5} = "play2.name"
+#. ${6} = "ctx.tags.play2.id"
+#. ${7} = "play2.level"
+#: plugins/fight.js:24:20 plugins/fight.js:31:20
+msgid ""
+"\n"
+"<b>${0} City:</b> ${1}${2}\n"
+"<b>🏅 Level:</b> ${3}\n"
+"➖➖➖DUAL➖➖➖\n"
+"<b>${4} City:</b> ${5}${6}\n"
+"<b>🏅 Level:</b> ${7}"
+msgstr ""
+"\n"
+"<b>${0} Cidade:</b> ${1}${2}\n"
+"<b>🏅 Nível:</b> ${3}\n"
+"➖➖➖DUAL➖➖➖\n"
+"<b>${4} cidade:</b> ${5}${6}\n"
+"<b>🏅 Nível:</b> ${7}"
+
+#: plugins/fight.js:62:23 plugins/fight.js:63:23
+msgid "Draw"
+msgstr "Empate"
+
+#. ${0} = "ctx.nl.play1.attack"
+#. ${1} = "ctx.nl.play2.attack"
+#. ${2} = "ctx.nl.play1.shield"
+#. ${3} = "ctx.nl.play2.shield"
+#. ${4} = "ctx.nl.play1.life"
+#. ${5} = "ctx.nl.play2.life"
+#. ${6} = "ctx.nl.play1.xp"
+#. ${7} = "play1.winXp"
+#. ${8} = "ctx.nl.play2.xp"
+#. ${9} = "play2.winXp"
+#. ${10} = "ctx.nl.play1.money"
+#. ${11} = "play1.winMoney"
+#. ${12} = "ctx.nl.play2.money"
+#. ${13} = "play2.winMoney"
+#. ${14} = "winName1"
+#. ${0} = "ctx.nl.play1.attack"
+#. ${1} = "ctx.nl.play2.attack"
+#. ${2} = "ctx.nl.play1.shield"
+#. ${3} = "ctx.nl.play2.shield"
+#. ${4} = "ctx.nl.play1.life"
+#. ${5} = "ctx.nl.play2.life"
+#. ${6} = "ctx.nl.play1.xp"
+#. ${7} = "play1.winXp"
+#. ${8} = "ctx.nl.play2.xp"
+#. ${9} = "play2.winXp"
+#. ${10} = "ctx.nl.play1.money"
+#. ${11} = "play1.winMoney"
+#. ${12} = "ctx.nl.play2.money"
+#. ${13} = "play2.winMoney"
+#. ${14} = "winName2"
+#: plugins/fight.js:125:17 plugins/fight.js:135:17
+msgid ""
+"\n"
+"➖➖➖RESULT➖➖➖\n"
+"${0} ⚔️ ${1}\n"
+"${2} 🛡 ${3}\n"
+"${4} ❤️ ${5}\n"
+"${6} (+${7}) 🎖 ${8} (+${9})\n"
+"${10} (+${11}) 💰 ${12} (+${13})\n"
+"🏆 WIN: ${14}\n"
+"\t"
+msgstr ""
+"\n"
+"➖➖➖RESULTADO➖➖➖\n"
+"${0} ⚔️ ${1}\n"
+"${2} 🛡 ${3}\n"
+"${4} ❤️ ${5}\n"
+"${6} (+${7}) 🎖 ${8} (+${9})\n"
+"${10} (+${11}) 💰 ${12} (+${13})\n"
+"🏆 GANHOU: ${14}\n"
+"\t"
+
+#. ${0} = "winName1"
+#. ${0} = "winName2"
+#: plugins/fight.js:157:17 plugins/fight.js:167:17
+msgid "🏆 ${0}"
+msgstr "🏆 ${0}"
+
+#: plugins/fight.js:158:17 plugins/fight.js:168:17 plugins/fight.js:553:14
+msgid "⚔️ Next"
+msgstr "⚔️ Próximo"
+
+#: plugins/fight.js:205:32 plugins/fight.js:647:34
+msgid "You have no troops, wait two minutos!"
+msgstr "Você não tem tropas, espere dois minutos!"
+
+#. ${0} = "ctx.db.castle"
+#. ${1} = "ctx.db.name"
+#. ${2} = "ctx.tags.ctx.from.id"
+#. ${3} = "ctx.db.level"
+#. ${4} = "ctx.nl.ctx.db.xp"
+#. ${5} = "ctx.db.troops"
+#. ${6} = "ctx.db.maxTroops"
+#. ${7} = "ctx.castles.Number.play.city"
+#. ${8} = "play.name"
+#. ${9} = "ctx.tags.play.id"
+#. ${10} = "play.level"
+#. ${11} = "ctx.nl.play.xp"
+#. ${12} = "ctx.nl.play.money"
+#. ${0} = "ctx.db.castle"
+#. ${1} = "ctx.db.name"
+#. ${2} = "ctx.tags.ctx.from.id"
+#. ${3} = "ctx.db.level"
+#. ${4} = "ctx.nl.ctx.db.xp"
+#. ${5} = "ctx.db.troops"
+#. ${6} = "ctx.db.maxTroops"
+#. ${7} = "ctx.castles.Number.play.city"
+#. ${8} = "play.name"
+#. ${9} = "ctx.tags.play.id"
+#. ${10} = "play.level"
+#. ${11} = "ctx.nl.play.xp"
+#. ${12} = "ctx.nl.play.money"
+#: plugins/fight.js:211:17 plugins/fight.js:221:23
+msgid ""
+"<b>${0} City:</b> ${1}${2}\n"
+"<b>🏅 Level:</b> ${3}\n"
+"<b>🎖 Experience:</b> ${4}\n"
+"<b>‍👮‍ Troops:</b> ${5}/${6}\n"
+"➖➖➖VS➖➖➖\n"
+"<b>${7} City:</b> ${8}${9}\n"
+"<b>🏅 Level:</b> ${10}\n"
+"<b>🎖 Experience:</b> ${11}\n"
+"<b>💰 Money:</b> ${12}"
+msgstr ""
+"<b>${0} Cidade:</b> ${1}${2}\n"
+"<b>🏅 Nível:</b> ${3}\n"
+"<b>🎖 Experiência:</b> ${4}\n"
+"<b>‍👮‍ Tropas:</b> ${5}/${6}\n"
+"➖➖➖VS➖➖➖\n"
+"<b>${7} Cidade:</b> ${8}${9}\n"
+"<b>🏅 Nível:</b> ${10}\n"
+"<b>🎖 Experiência:</b> ${11}\n"
+"<b>💰 Dinheiro:</b> ${12}"
+
+#. ${0} = "ctx.nl.ctx.db.attack"
+#. ${1} = "ctx.nl.play.attack"
+#. ${2} = "ctx.nl.ctx.db.shield"
+#. ${3} = "ctx.nl.play.shield"
+#. ${4} = "ctx.nl.ctx.db.life"
+#. ${5} = "ctx.nl.play.life"
+#: plugins/fight.js:286:20
+msgid ""
+"\n"
+"➖➖➖➖➖➖\n"
+"${0} ⚔️ ${1}\n"
+"${2} 🛡 ${3}\n"
+"${4} ❤️ ${5}"
+msgstr ""
+"\n"
+"➖➖➖➖➖➖\n"
+"${0} ⚔️ ${1}\n"
+"${2} 🛡 ${3}\n"
+"${4} ❤️ ${5}"
+
+#. ${0} = "ctx.db.name"
+#. ${1} = "text"
+#. ${0} = "ctx.db.name"
+#. ${1} = "textReply"
+#: plugins/fight.js:316:14 plugins/fight.js:321:20
+msgid ""
+"\n"
+"${0} LOST!\n"
+"<b>‼️ CASTLE WITHOUT DAMAGE ‼️</b>\n"
+"➖➖➖➖➖➖\n"
+"${1}"
+msgstr ""
+"\n"
+"${0} PERDEU!\n"
+"<b>‼️ CASTELO SEM DANOS ‼️</b>\n"
+"➖➖➖➖➖➖\n"
+"${1}"
+
+#. ${0} = "ctx.db.name"
+#. ${1} = "text"
+#. ${0} = "ctx.db.name"
+#. ${1} = "textReply"
+#: plugins/fight.js:334:14 plugins/fight.js:338:20
+msgid ""
+"\n"
+"${0} WIN!\n"
+"➖➖➖➖➖➖\n"
+"${1}"
+msgstr ""
+"\n"
+"${0} GANHOU!\n"
+"➖➖➖➖➖➖\n"
+"${1}"
+
+#. ${0} = "ctx.db.name"
+#. ${1} = "text"
+#. ${0} = "ctx.db.name"
+#. ${1} = "textReply"
+#: plugins/fight.js:347:14 plugins/fight.js:351:20
+msgid ""
+"\n"
+"${0} LOST!\n"
+"➖➖➖➖➖➖\n"
+"${1}"
+msgstr ""
+"\n"
+"${0} PERDEU!\n"
+"➖➖➖➖➖➖\n"
+"${1}"
+
+#. ${0} = "ctx.db.name"
+#. ${1} = "textReply"
+#: plugins/fight.js:395:19
+msgid "WIN!"
+msgstr "GANHOU!"
+
+#. ${0} = "ctx.db.name"
+#. ${1} = "textReply"
+#: plugins/fight.js:395:35
+msgid "LOST!"
+msgstr "PERDEU!"
+
+#. ${0} = "ctx.db.name"
+#. ${1} = "ctx.db.id"
+#. ${2} = "textReply"
+#. ${3} = "ctx.fixKeyboard"
+#: plugins/fight.js:408:48
+msgid ""
+"\n"
+"<b>Reply attack of ${0} (${1}):</b>\n"
+"${2}${3}"
+msgstr ""
+"\n"
+"<b>Novo ataque de ${0} (${1}):</b>\n"
+"${2}${3}"
+
+#. ${0} = "fightTypes.ctx.session.ftype.name"
+#: plugins/fight.js:556:14
+msgid "🔍 ${0}"
+msgstr "🔍 ${0}"
+
+#: plugins/fight.js:563:14
+msgid "⚡️ PowerUp"
+msgstr "⚡️ Poderes"
+
+#. ${0} = "ctx.db.castle"
+#. ${1} = "ctx.db.name"
+#. ${2} = "ctx.tags.ctx.from.id"
+#. ${3} = "ctx.db.level"
+#. ${4} = "ctx.nl.ctx.db.xp"
+#. ${5} = "ctx.db.troops"
+#. ${6} = "ctx.db.maxTroops"
+#. ${7} = "ctx.castles.Number.opponent.city"
+#. ${8} = "opponent.name"
+#. ${9} = "ctx.tags.opponent.id"
+#. ${10} = "opponent.level"
+#. ${11} = "ctx.nl.opponent.xp"
+#. ${12} = "ctx.nl.opponent.money"
+#. ${0} = "ctx.db.castle"
+#. ${1} = "ctx.db.name"
+#. ${2} = "ctx.tags.ctx.from.id"
+#. ${3} = "ctx.db.level"
+#. ${4} = "ctx.nl.ctx.db.xp"
+#. ${5} = "ctx.db.troops"
+#. ${6} = "ctx.db.maxTroops"
+#. ${7} = "ctx.castles.Number.opponent.city"
+#. ${8} = "opponent.name"
+#. ${9} = "ctx.tags.opponent.id"
+#. ${10} = "opponent.level"
+#. ${11} = "ctx.nl.opponent.xp"
+#. ${12} = "ctx.nl.opponent.money"
+#: plugins/fight.js:582:17 plugins/fight.js:677:15
+msgid ""
+"\n"
+"<b>${0} City:</b> ${1}${2}\n"
+"<b>🏅 Level:</b> ${3}\n"
+"<b>🎖 Experience:</b> ${4}\n"
+"<b>‍👮‍ Troops:</b> ${5}/${6}\n"
+"➖➖➖VS➖➖➖\n"
+"<b>${7} City:</b> ${8}${9}\n"
+"<b>🏅 Level:</b> ${10}\n"
+"<b>🎖 Experience:</b> ${11}\n"
+"<b>💰 Money:</b> ${12}"
+msgstr ""
+"\n"
+"<b>${0} Cidade:</b> ${1}${2}\n"
+"<b>🏅 Nível:</b> ${3}\n"
+"<b>🎖 Experiência:</b> ${4}\n"
+"<b>‍👮‍ Tropas:</b> ${5}/${6}\n"
+"➖➖➖VS➖➖➖\n"
+"<b>${7} Cidade:</b> ${8}${9}\n"
+"<b>🏅 Nível:</b> ${10}\n"
+"<b>🎖 Experiência:</b> ${11}\n"
+"<b>💰 Dinheiro:</b> ${12}"
+
+#. ${0} = "ctx.db.castle"
+#. ${1} = "ctx.db.name"
+#. ${2} = "ctx.tags.ctx.from.id"
+#. ${3} = "ctx.db.level"
+#. ${4} = "ctx.nl.ctx.db.xp"
+#. ${5} = "ctx.db.troops"
+#. ${6} = "ctx.db.maxTroops"
+#: plugins/fight.js:599:14
+msgid ""
+"\n"
+"<b>${0} City:</b> ${1}${2}\n"
+"<b>🏅 Level:</b> ${3}\n"
+"<b>🎖 Experience:</b> ${4}\n"
+"<b>‍👮‍ Troops:</b> ${5}/${6}\n"
+"➖➖➖DUAL➖➖➖\n"
+"Select:"
+msgstr ""
+"\n"
+"<b>${0} Cidade:</b> ${1}${2}\n"
+"<b>🏅 Nível:</b> ${3}\n"
+"<b>🎖 Experiência:</b> ${4}\n"
+"<b>‍👮‍ Tropas:</b> ${5}/${6}\n"
+"➖➖➖DUAL➖➖➖\n"
+"Selecione:"
+
+#: plugins/fight.js:611:14
+msgid "<b>Select PowerUp:</b>"
+msgstr "<b>Selecione um Poder:</b>"
+
+#: plugins/fight.js:631:15 plugins/menu.js:49:15
+msgid "💳 Store VIP"
+msgstr "💳 Loja VIP"
+
+#. ${0} = "ctx.db.castle"
+#. ${1} = "ctx.db.name"
+#. ${2} = "ctx.tags.ctx.from.id"
+#. ${3} = "ctx.db.level"
+#. ${4} = "ctx.nl.ctx.db.xp"
+#. ${5} = "ctx.db.troops"
+#. ${6} = "ctx.db.maxTroops"
+#: plugins/fight.js:660:15
+msgid ""
+"\n"
+"<b>${0} City:</b> ${1}${2}\n"
+"<b>🏅 Level:</b> ${3}\n"
+"<b>🎖 Experience:</b> ${4}\n"
+"<b>‍👮‍ Troops:</b> ${5}/${6}\n"
+"➖➖➖DUAL➖➖➖\n"
+"Waiting for players!"
+msgstr ""
+"\n"
+"<b>${0} Cidade:</b> ${1}${2}\n"
+"<b>🏅 Nível:</b> ${3}\n"
+"<b>🎖 Experiência:</b> ${4}\n"
+"<b>‍👮‍ Tropa:</b> ${5}/${6}\n"
+"➖➖➖DUAL➖➖➖\n"
+"Esperando outros jogadores!"
+
+#: plugins/invite.js:2:19 plugins/singup.js:188:19 plugins/singup.js:210:19
+msgid "What's the name of your town?"
+msgstr "Qual o nome do seu castelo?"
+
+#. ${0} = "ctx.from.id"
+#: plugins/invite.js:26:50
+msgid ""
+"\n"
+"<b>Join ${0} via your invite link.</b>\n"
+"+ 1200 XP\n"
+"+ 5500 Money\n"
+"+ 2 Diamond\n"
+"+ 1 Clone\n"
+"+ 1 Super Shield\n"
+"\t\t"
+msgstr ""
+"\n"
+"<b>Entrou ${0} via seu link de convite.</b>\n"
+"+ 1200 XP\n"
+"+ 5500 Dinheiro\n"
+"+ 2 Diamantes\n"
+"+ 1 Clone\n"
+"+ 1 Super Escudo\n"
+"\t\t"
+
+#. ${0} = "ctx.db.diamond"
+#: plugins/menu.js:11:14
+msgid "<b>💎 Diamonds:</b> ${0}\n"
+msgstr "<b>💎 Diamantes:</b> ${0}\n"
+
+#. ${0} = "ctx.db.troops"
+#. ${1} = "ctx.db.maxTroops"
+#: plugins/menu.js:12:14
+msgid "<b>‍👮‍ Troops:</b> ${0}/${1}\n"
+msgstr "<b>‍👮‍ Tropas:</b> ${0}/${1}\n"
+
+#. ${0} = "onlineDual.length"
+#: plugins/menu.js:34:17
+msgid "${0} online"
+msgstr "${0} online"
+
+#: plugins/menu.js:40:15
+msgid "⚔️ Normal"
+msgstr "⚔️ Normal"
+
+#. ${0} = "online"
+#: plugins/menu.js:41:15
+msgid "⚔️ Dual${0}"
+msgstr "⚔️ Dual${0}"
+
+#: plugins/menu.js:45:15
+msgid "🌇 Clan"
+msgstr "🌇 Clan"
+
+#: plugins/menu.js:46:15
+msgid "❤️ Badges"
+msgstr "❤️ Emblemas"
+
+#: plugins/menu.js:50:15
+msgid "🥇 Rank"
+msgstr "🥇 Rank"
+
+#: plugins/menu.js:51:15
+msgid "📔 Quests"
+msgstr "📔 Missões"
+
+#. ${0} = "boxTime"
+#: plugins/menu.js:54:15
+msgid "🎁 ${0}"
+msgstr "🎁 ${0}"
+
+#: plugins/menu.js:55:15
+msgid "⚙️ Settings"
+msgstr "⚙️ Configurações"
+
+#: plugins/menu.js:56:15
+msgid "🗞 About"
+msgstr "🗞 Sobre"
+
+#. ${0} = "ctx.from.id"
+#: plugins/menu.js:61:14
+msgid ""
+"\n"
+"👤 <b>Developer:</b> @TiagoEDGE (Tiago Danin)\n"
+"🗣 <b>Channel:</b> @DefendTheCastle\n"
+"👥 <b>Group EN:</b> @DefendTheCastleEN\n"
+"👥 <b>Group PT:</b> @DefendTheCastlePT\n"
+"\n"
+"Invite your friends to earn Money, Xp & Diamond!\n"
+"Invite URL: https://telegram.me/DefendTheCastleBot?start=join-${0}\n"
+"\t\t"
+msgstr ""
+"\n"
+"👤 <b>Desenvolvedor:</b> @TiagoEDGE (Tiago Danin)\n"
+"🗣 <b>Canal (EN):</b> @DefendTheCastle\n"
+"👥 <b>Grupo (EN):</b> @DefendTheCastleEN\n"
+"👥 <b>Grupo (PT):</b> @DefendTheCastlePT\n"
+"\n"
+"Convide seus amigos e ganhe Dinheiro, Xp & Diamantes\n"
+"URL de Convite: https://telegram.me/DefendTheCastleBot?start=join-${0}\n"
+"\t\t"
+
+#: plugins/menu.js:73:16
+msgid "📊 Stats"
+msgstr "📊 Estatísticas"
+
+#: plugins/menu.js:74:16 plugins/singup.js:195:18
+msgid "❓ Tutorial"
+msgstr "❓ Tutorial"
+
+#: plugins/presents.js:71:15
+msgid "Money"
+msgstr "Dinheiro"
+
+#: plugins/presents.js:72:12
+msgid "XP"
+msgstr "XP"
+
+#: plugins/presents.js:74:21
+msgid "SuperTroops"
+msgstr "SuperTropas"
+
+#: plugins/presents.js:76:21
+msgid "SuperShield"
+msgstr "SuperEscudo"
+
+#. undefined
+#. ${0} = "ctx.tips.ctx"
+#. ${1} = "i.i.index.present.presents.Math.floor.Math.random.presents.length.present.name"
+#: plugins/presents.js:78:15 plugins/presents.js:106:22
+msgid "Quest"
+msgstr "Missão"
+
+#. ${0} = "ctx.tips.ctx"
+#: plugins/presents.js:82:19
+msgid ""
+"\n"
+"<b>🎁 Present</b>\n"
+"${0}"
+msgstr ""
+"\n"
+"<b>🎁 Presente</b>\n"
+"${0}"
+
+#. ${0} = "i18nPresents.present.name"
+#. ${1} = "ctx.db.present.name.ctx.db.old.present.name"
+#: plugins/presents.js:122:26
+msgid ""
+"\n"
+"Present(${0}): +${1}\n"
+"\t\t\t"
+msgstr ""
+"\n"
+"Presente(${0}): +${1}\n"
+"\t\t\t"
+
+#. ${0} = "i18nPresents.present.name"
+#: plugins/presents.js:126:26
+msgid "Present: ${0}!"
+msgstr "Presente: ${0}!"
+
+#. ${0} = "time"
+#: plugins/quests.js:12:17
+msgid "<b>📔 Quest (end ${0})</b>\n"
+msgstr "<b>📔 Missão (terminar ${0})</b>\n"
+
+#. ${0} = "time"
+#. ${1} = "quest.text.text"
+#: plugins/quests.js:15:10
+msgid "\n"
+msgstr "\n"
+
+#: plugins/quests.js:18:34
+msgid "Status: Done"
+msgstr "Statu: Feito"
+
+#: plugins/quests.js:18:56
+msgid "Status: Open"
+msgstr "Status: Aberto"
+
+#: plugins/quests.js:21:14
+msgid "<b>📔 Quest (#Soon)</b>\n"
+msgstr "<b>📔 Missão (#Soon)</b>\n"
+
+#: plugins/quests.js:23:14
+msgid "<b>Quest Complete!</b>\n"
+msgstr "<b>Missão Completa!</b>\n"
+
+#. ${0} = "ctx.quest.select.xp"
+#. ${1} = "ctx.quest.select.money"
+#: plugins/quests.js:27:15
+msgid ""
+"⭐️ ${0} +XP\n"
+"💰 ${1} +Money\n"
+msgstr ""
+"⭐️ ${0} +XP\n"
+"💰 ${1} +Dinheiro\n"
+
+#. ${0} = "item.icon"
+#. ${1} = "name"
+#: plugins/quests.js:33:11
+msgid "${0} ${1} +1\n"
+msgstr "${0} ${1} +1\n"
+
+#. ${0} = "ctx.db.cache.battles"
+#. ${1} = "ctx.db.cache.wins"
+#. ${2} = "ctx.db.cache.losts"
+#. ${3} = "sortWins.name"
+#. ${4} = "sortWins.id"
+#. ${5} = "sortWins.wins"
+#. ${6} = "sortWins.name"
+#. ${7} = "sortWins.id"
+#. ${8} = "sortWins.wins"
+#. ${9} = "sortWins.name"
+#. ${10} = "sortWins.id"
+#. ${11} = "sortWins.wins"
+#. ${12} = "sortBattles.name"
+#. ${13} = "sortBattles.id"
+#. ${14} = "sortBattles.battles"
+#. ${15} = "sortBattles.name"
+#. ${16} = "sortBattles.id"
+#. ${17} = "sortBattles.battles"
+#. ${18} = "sortBattles.name"
+#. ${19} = "sortBattles.id"
+#. ${20} = "sortBattles.battles"
+#: plugins/ranks.js:45:19
+msgid ""
+"\n"
+"<b>My Battles</b>\n"
+"<b>Total:</b> ${0}\n"
+"<b>Wins:</b> ${1}\n"
+"<b>Losses:</b> ${2}\n"
+"\n"
+"<b>Global Battles (Wins)</b>\n"
+"🥇 ${3} : ${4} (${5})\n"
+"🥈 ${6} : ${7} (${8})\n"
+"🥉 ${9} : ${10} (${11})\n"
+"\n"
+"<b>Global Battles (Total)</b>\n"
+"🥇 ${12} : ${13} (${14})\n"
+"🥈 ${15} : ${16} (${17})\n"
+"🥉 ${18} : ${19} (${20})\n"
+"\n"
+"<b>Note:</b> Restarted every week or day :)\n"
+msgstr ""
+"\n"
+"<b>Minhas Batalhas</b>\n"
+"<b>Total:</b> ${0}\n"
+"<b>Ganhas:</b> ${1}\n"
+"<b>Perdas:</b> ${2}\n"
+"\n"
+"<b>Global Batalhas (Ganhas)</b>\n"
+"🥇 ${3} : ${4} (${5})\n"
+"🥈 ${6} : ${7} (${8})\n"
+"🥉 ${9} : ${10} (${11})\n"
+"\n"
+"<b>Global Batalhas (Total)</b>\n"
+"🥇 ${12} : ${13} (${14})\n"
+"🥈 ${15} : ${16} (${17})\n"
+"🥉 ${18} : ${19} (${20})\n"
+"\n"
+"<b>Note:</b> Reiniciado a cada semana ou dia :)\n"
+
+#: plugins/ranks.js:77:17
+msgid "🥇 Rank by:"
+msgstr "🥇 Rank por:"
+
+#: plugins/singup.js:191:24
+msgid "💾 Saved"
+msgstr "💾 Guardado"
+
+#: plugins/singup.js:196:18 plugins/tutorial.js:92:16
+msgid "✅ Let's Go!"
+msgstr "✅ Vamos Lá!"
+
+#. ${0} = "text"
+#: plugins/singup.js:218:37
+msgid ""
+"\n"
+"*Name must have only letter and number with a maximum of 12 characters!*\n"
+"${0}\n"
+"\t\t\t"
+msgstr ""
+"\n"
+"*Nome deve ter apenas letra e número com um máximo de 12 caracteres!*\n"
+"${0}\n"
+"\t\t\t"
+
+#. ${0} = "ctx.match"
+#. ${1} = "ctx.fixKeyboard"
+#: plugins/singup.js:236:24
+msgid "Are you sure the name of your city is ${0}?.${1}"
+msgstr "Tem certeza que o nome da sua cidade é ${0}?.${1}"
+
+#: plugins/singup.js:240:18
+msgid "✅ Yes"
+msgstr "✅ Sim"
+
+#: plugins/singup.js:241:18
+msgid "❌ No"
+msgstr "❌ Não"
+
+#: plugins/singup.js:248:32
+msgid "Use the <code>/start</code>"
+msgstr "Use o <code>/start</code>"
+
+#: plugins/singup.js:252:18
+msgid "Or Click Here (Menu)"
+msgstr "Ou Clique Aqui (Menu)"
+
+#. ${0} = "all.length"
+#. ${1} = "join24.length"
+#. ${2} = "all.filter.e.e.online.length"
+#: plugins/stats.js:4:19
+msgid ""
+"\n"
+"<b>Total Players:</b> ${0}\n"
+"<b>New Players (24h):</b> ${1}\n"
+"<b>Online Players (24h):</b> ${2}"
+msgstr ""
+"\n"
+"<b>Total de Jogodores:</b> ${0}\n"
+"<b>Novos Jogadores (24h):</b> ${1}\n"
+"<b>Jogadores Online (24h):</b> ${2}"
+
+#. ${0} = "ctx.db.castle"
+#. ${1} = "ctx.db.name"
+#. ${2} = "ctx.db.diamond"
+#. ${3} = "ctx.tips.ctx"
+#: plugins/storevip.js:2:17
+msgid ""
+"\n"
+"<b>${0} City:</b> ${1}\n"
+"<b>💎 Diamonds:</b> ${2}\n"
+"${3}"
+msgstr ""
+"\n"
+"<b>${0} Cidade:</b> ${1}\n"
+"<b>💎 Diamantes:</b> ${2}\n"
+"${3}"
+
+#: plugins/storevip.js:38:27
+msgid "Inventory update!"
+msgstr "Inventário Atualizado!"
+
+#. ${0} = "ctx.db.diamond"
+#. ${1} = "item.price"
+#: plugins/storevip.js:40:27
+msgid "💎 Your diamonds: ${0} | Price: ${1}"
+msgstr "💎 Seus diamantes: ${0} | Preço: ${1}"
+
+#. ${0} = "ctx.db.castle"
+#. ${1} = "ctx.db.name"
+#. ${2} = "ctx.db.diamond"
+#. ${3} = "ctx.tips.ctx"
+#. ${4} = "item.icon"
+#. ${5} = "item.name"
+#. ${6} = "item.desc"
+#. ${7} = "items.ctx.match.price"
+#. ${8} = "items.ctx.match.qt"
+#: plugins/storevip.js:45:14
+msgid ""
+"\n"
+"<b>${0} City:</b> ${1}\n"
+"<b>💎 Diamonds:</b> ${2}\n"
+"${3}\n"
+"➖➖➖➖➖➖\n"
+"<b>${4} ${5}</b>\n"
+"${6}\n"
+"<b>💎 Price:</b> ${7}\n"
+"<b>📦 Quantity:</b> ${8}\n"
+"\t\t"
+msgstr ""
+"\n"
+"<b>${0} Cidade:</b> ${1}\n"
+"<b>💎 Diamantes:</b> ${2}\n"
+"${3}\n"
+"➖➖➖➖➖➖\n"
+"<b>${4} ${5}</b>\n"
+"${6}\n"
+"<b>💎 Preço:</b> ${7}\n"
+"<b>📦 Quantidade:</b> ${8}\n"
+"\t\t"
+
+#: plugins/tutorial.js:15:32
+msgid "Preview only!"
+msgstr "Somente Visualização!"
+
+#: plugins/tutorial.js:19:14
+msgid ""
+"\n"
+"Welcome to <b>defend the castle</b>\n"
+"* How to attack a castle\n"
+"• Open the Menu\n"
+"• Click on \"⚔️ Normal\"\n"
+"• Select a zone to drop the troops\n"
+"TIP: A 3x3 zone is selected!\n"
+"Map:"
+msgstr ""
+"\n"
+"Bem-vindo a <b>Defender The Castle</b>\n"
+"* Como atacar um castelo\n"
+"• Abrar o menu\n"
+"• Clique em \"⚔️ Normal\" \n"
+"• Selecione uma zona para soltar os tropas\n"
+"DICA: uma zona 3x3 é selecionada!\n"
+"Mapa: "
+
+#: plugins/tutorial.js:36:14
+msgid ""
+"\n"
+"Best possition to drop of troops!\n"
+"❌ = Not cause damage in castle (lose the battle)\n"
+"✅ = Cause damage in castle"
+msgstr ""
+"\n"
+"Melhores posições para soltar as tropas!\n"
+"❌ = Não causar danos no castelo (perder a batalha\n"
+"✅ = Causar dadnos no castelo"
+
+#: plugins/tutorial.js:49:14
+msgid ""
+"\n"
+"* Edit City\n"
+"• Open menu\n"
+"• Click in \"City\"\n"
+"• Select an zone\n"
+"• Upgrade or Change Zone"
+msgstr ""
+"\n"
+"* Edita Cidade\n"
+"• Abrar o menu\n"
+"• Clique em \"Cidade\"\n"
+"• Selecione uma zona\n"
+"• Faça melhorias ou troque o tipo de zona"
+
+#: plugins/tutorial.js:56:14
+msgid ""
+"\n"
+"* Upgrade troops in:\n"
+"• ⚔️ Zone War (Attack)\n"
+"• 🛡 Zone Defense (Shield)\n"
+"• 🏨 Hospital (Life)\n"
+"TIP: +1 troop per 120s"
+msgstr ""
+"\n"
+"* Atualizado tropas:\n"
+"• ⚔️ Zona de Guerra = +Ataque\n"
+"• 🛡 Zona de Defesa = +Escudo\n"
+"• 🏨 Hospital = +Vida\n"
+"DICA: +1 tropa a cada 120s"
+
+#: plugins/tutorial.js:63:14
+msgid ""
+"\n"
+"* NOTE\n"
+"• Increasing the level of the clan, increases the number of members & more "
+"money per hour\n"
+"• Use 💎 in Store VIP\n"
+"• Every 24 hours you can open a gift!\n"
+"• Offline for 7 days causes penalties to the castle:\n"
+"- Loss of money (E.g 100 ~> 71 \"100 / 1.4 = 71\")\n"
+"- Reset XP (Xp = 0)\n"
+"- -1 Level (E.g lvl10 ~> lvl9)"
+msgstr ""
+"\n"
+"* NOTE\n"
+"• Aumentando o nível do clã, aumenta o número de membros e mais  o de "
+"dinheiro por hora\n"
+"• Use 💎 na Loja Vip\n"
+"• Acada 24h você pode abrir um novo presente!\n"
+"• Offline por 7 dias provoca penalidades para o seu castelo:\n"
+"- Perda de dinheiro (Ex: 100 ~> 71 \"100 / 1.4 = 71\")\n"
+"- XP é zerado (Xp = 0)\n"
+"- -1 Nível (Ex: lvl10 ~> lvl9)"
+
+#: plugins/tutorial.js:77:15 plugins/tutorial.js:91:16
+msgid "◀️ Back"
+msgstr "◀️ Volta"
+
+#: plugins/tutorial.js:85:15
+msgid "▶️ Next"
+msgstr "▶️ Próximo"
+
+#: plugins/tutorial.js:89:14
+msgid "Finalized!"
+msgstr "Finalizado!"
+
+#~ msgid "Welcome!\n"
+#~ msgstr "Bem-Vindo\n"
+
+#~ msgid "${0}"
+#~ msgstr "${0}"
+
+#~ msgid "xp"
+#~ msgstr "xp"
+
+#~ msgid ""
+#~ "\n"
+#~ "<b>📔 Quest (Apr 5 ~> 14 Apr)</b>\n"
+#~ "- Be the King of Emblems\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<b>📔 Missão ((Apr 5 ~> 14 Apr)</b>\n"
+#~ "- Seja o Rei dos Emblemas\n"
+#~ "\t"
+
+#~ msgid ""
+#~ "\n"
+#~ "*Quest Complete!*\n"
+#~ "+ 1200 XP\n"
+#~ "+ 10000 Money\n"
+#~ "+ 1 Diamond\n"
+#~ "+ 1 Clone\n"
+#~ "+ 1 Super Shield\n"
+#~ "\t"
+#~ msgstr ""
+#~ "\n"
+#~ "*Missão Completa!*\n"
+#~ "+ 1200 XP\n"
+#~ "+ 10000 Dinheiro\n"
+#~ "+ 1 Diamantes\n"
+#~ "+ 1 Clone\n"
+#~ "+ 1 Super Escudo\n"
+#~ "\t"
+
+#~ msgid ""
+#~ "\n"
+#~ "<b>${0} City:</b> ${1}${2}\n"
+#~ "<b>💰 Money:</b> ${3} (${4}/hour)\n"
+#~ "<b>⚔️ Attack:</b> ${5}\n"
+#~ "<b>🛡 Shield:</b> ${6}\n"
+#~ "<b>❤️ Life:</b> ${7}\n"
+#~ "${8}\n"
+#~ "➖➖➖➖➖➖\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<b>${0} Cidade:</b> ${1}${2}\n"
+#~ "<b>💰 Dinheiro:</b> ${3} (${4}/hora)\n"
+#~ "<b>⚔️ Ataque:</b> ${5}\n"
+#~ "<b>🛡 Escudo:</b> ${6}\n"
+#~ "<b>❤️ Vida:</b> ${7}\n"
+#~ "${8}\n"
+#~ "➖➖➖➖➖➖\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "<b>${0} City:</b> ${1}${2}\n"
+#~ "<b>💰 Money:</b> ${3} Coin (${4}/hour)\n"
+#~ "<b>⚔️ Attack:</b> ${5}\n"
+#~ "<b>🛡 Shield:</b> ${6}\n"
+#~ "<b>❤️ Life:</b> ${7}\n"
+#~ "${8}\n"
+#~ "➖➖➖➖➖➖\n"
+#~ "<b>New castle!</b>\n"
+#~ "\t\t"
+#~ msgstr ""
+#~ "\n"
+#~ "<b>${0} Cidade:</b> ${1}${2}\n"
+#~ "<b>💰 Dinheiro:</b> ${3} (${4}/hora)\n"
+#~ "<b>⚔️ Ataque:</b> ${5}\n"
+#~ "<b>🛡 Escudo:</b> ${6}\n"
+#~ "<b>❤️ Vida:</b> ${7}\n"
+#~ "${8}\n"
+#~ "➖➖➖➖➖➖\n"
+#~ "<b>Novo castelo!</b>\n"
+#~ "\t\t"
+
+#~ msgid ""
+#~ "\n"
+#~ "<b>${0} City:</b> ${1}${2}\n"
+#~ "<b>💰 Money:</b> ${3} (${4}/hour)\n"
+#~ "<b>⚔️ Attack:</b> ${5}\n"
+#~ "<b>🛡 Shield:</b> ${6}\n"
+#~ "<b>❤️ Life:</b> ${7}\n"
+#~ "${8}\n"
+#~ "➖➖➖➖➖➖\n"
+#~ "${9}\n"
+#~ "Upgraded!"
+#~ msgstr ""
+#~ "\n"
+#~ "<b>${0} Cidade:</b> ${1}${2}\n"
+#~ "<b>💰 Dinheiro:</b> ${3} (${4}/hour)\n"
+#~ "<b>⚔️ Ataque:</b> ${5}\n"
+#~ "<b>🛡 Escudo:</b> ${6}\n"
+#~ "<b>❤️ Vida:</b> ${7}\n"
+#~ "${8}\n"
+#~ "➖➖➖➖➖➖\n"
+#~ "${9}\n"
+#~ "Melhorado!"
+
+#~ msgid ""
+#~ "\n"
+#~ "<b>${0} City:</b> ${1}${2}\n"
+#~ "<b>💰 Money:</b> ${3} (${4}/hour)\n"
+#~ "<b>⚔️ Attack:</b> ${5}\n"
+#~ "<b>🛡 Shield:</b> ${6}\n"
+#~ "<b>❤️ Life:</b> ${7}\n"
+#~ "${8}\n"
+#~ "➖➖➖➖➖➖\n"
+#~ "${9}\n"
+#~ "\t\t"
+#~ msgstr ""
+#~ "\n"
+#~ "<b>${0} Cidade:</b> ${1}${2}\n"
+#~ "<b>💰 Dinheiro:</b> ${3} (${4}/hora)\n"
+#~ "<b>⚔️ Ataque:</b> ${5}\n"
+#~ "<b>🛡 Escudo:</b> ${6}\n"
+#~ "<b>❤️ Vida:</b> ${7}\n"
+#~ "${8}\n"
+#~ "➖➖➖➖➖➖\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "<b>🌇 Name:</b> ${0} [${1}]\n"
+#~ "<b>🏅 Level:</b> ${2}${3}\n"
+#~ "<b>🎖 Experience:</b> ${4}\n"
+#~ "<b>💰 Money:</b> ${5} (${6}/hour)\n"
+#~ "<b>👥 Members:</b> ${7}/${8}\n"
+#~ "\n"
+#~ "<b>❇️ Invite Clan URL:</b> https://telegram.me/DefendTheCastleBot?"
+#~ "start=join-clan-${9}\n"
+#~ "<b>❌ Exit:</b> <a href=\"https://telegram.me/DefendTheCastleBot?"
+#~ "start=exit-clan\">[Click Here]</a>"
+#~ msgstr ""
+#~ "\n"
+#~ "<b>🌇 Nome:</b> ${0} [${1}]\n"
+#~ "<b>🏅 Nível:</b> ${2}${3}\n"
+#~ "<b>🎖 Experiência:</b> ${4}\n"
+#~ "<b>💰 Dinheiro:</b> ${5} (${6}/hora)\n"
+#~ "<b>👥 Membros:</b> ${7}/${8}\n"
+#~ "\n"
+#~ "<b>❇️ URL de Convite do Clan:</b> https://telegram.me/DefendTheCastleBot?"
+#~ "start=join-clan-${9}\n"
+#~ "<b>❌ Sair:</b> <a href=\"https://telegram.me/DefendTheCastleBot?"
+#~ "start=exit-clan\">[Clique Aqui]</a>"
+
+#~ msgid ""
+#~ "\n"
+#~ "<b>${0} City:</b> ${1}${2}\n"
+#~ "<b>🏅 Level:</b> ${3}\n"
+#~ "<b>🎖 Experience:</b> ${4}\n"
+#~ "➖➖➖➖➖➖\n"
+#~ "<b>💰 Money:</b> ${5} (${6}/hour)\n"
+#~ "<b>💎 Diamonds:</b> ${7}\n"
+#~ "<b>‍👮‍ Troops:</b> ${8}/${9}\n"
+#~ "\n"
+#~ "${10}"
+#~ msgstr ""
+#~ "\n"
+#~ "<b>${0} Cidade:</b> ${1}${2}\n"
+#~ "<b>🏅 Nível:</b> ${3}\n"
+#~ "<b>🎖 Experiência:</b> ${4}\n"
+#~ "➖➖➖➖➖➖\n"
+#~ "<b>💰 Dinheiro:</b> ${5} (${6}/hora)\n"
+#~ "<b>💎 Diamantes:</b> ${7}\n"
+#~ "<b>‍👮‍ Tropas:</b> ${8}/${9}\n"
+#~ "\n"
+#~ "${10}"

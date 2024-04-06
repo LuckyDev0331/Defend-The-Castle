@@ -1,0 +1,96 @@
+{
+	"name": "defend-the-castle",
+	"main": "index.js",
+	"preferGlobal": false,
+	"version": "1.3.3",
+	"description": "Telegram Bot Game - Defend The Castle",
+	"author": {
+		"email": "TiagoDanin@outlook.com",
+		"name": "Tiago Danin",
+		"url": "https://TiagoDanin.github.io"
+	},
+	"license": "MIT",
+	"keywords": [
+		"telegraf",
+		"telegraf-bots",
+		"telegram",
+		"telegram-bot",
+		"telegram-game",
+		"telegram-game-bot",
+		"telegram-gaming-bot"
+	],
+	"scripts": {
+		"start": "env-cmd node index.js",
+		"dev": "env-cmd nodemon rs",
+		"test": "xo",
+		"i18n": "bash scripts/i18n.sh",
+		"notification": "env-cmd node scripts/notification.js"
+	},
+	"engines": {
+		"node": ">=12"
+	},
+	"private": false,
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/TiagoDanin/Defend-The-Castle.git"
+	},
+	"homepage": "https://TiagoDanin.github.io/Defend-The-Castle",
+	"bugs": {
+		"url": "https://github.com/TiagoDanin/Defend-The-Castle/issues"
+	},
+	"github": {
+		"name": "Defend-The-Castle",
+		"owner": "TiagoDanin"
+	},
+	"files": [
+		"LICENSE",
+		"README.md",
+		"base",
+		"ia",
+		"index.js",
+		"items",
+		"itemsAllText.js",
+		"locales",
+		"package.json",
+		"plugins",
+		"scripts",
+		"test.js",
+		"utilities"
+	],
+	"dependencies": {
+		"brain.js": "1.6.1",
+		"cron": "^1.7.1",
+		"debug": "4.3.1",
+		"json-stringify-safe": "5.0.1",
+		"lodash": "4.17.21",
+		"minimist": "1.2.5",
+		"moment": "2.29.1",
+		"moment-timezone": "0.5.33",
+		"nodejs-i18n": "2.4.0",
+		"numberlabel": "1.0.1",
+		"pg": "8.6.0",
+		"pg-native": "3.0.0",
+		"telegraf": "4.3.0",
+		"telegraf-start-parts": "1.0.0"
+	},
+	"devDependencies": {
+		"env-cmd": "10.1.0",
+		"nodemon": "2.0.7",
+		"xo": "0.35.0"
+	},
+	"xo": {
+		"rules": {
+			"quote-props": "warn",
+			"eqeqeq": "off",
+			"array-callback-return": "off",
+			"require-atomic-updates": "off",
+			"no-else-return": "warn",
+			"camelcase": "off",
+			"no-unused-vars": "off",
+			"no-return-await": "off",
+			"unicorn/no-reduce": "off",
+			"unicorn/prevent-abbreviation": "off"
+		},
+		"semicolon": false
+	}
+}
